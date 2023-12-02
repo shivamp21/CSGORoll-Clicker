@@ -1,0 +1,8 @@
+/* Style for the clicked elements in the grid */
+body > cw-root > mat-sidenav-container > mat-sidenav-content > div > cw-withdraw > cw-withdraw-search-grid > div > div {
+ 
+  border: 2px solid #007BFF; 
+  background-color: #e5e5e500; 
+  color: #ffffff;
+  padding: 10px; 
+}

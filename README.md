@@ -1,5 +1,6 @@
 # CSGORoll-Clicker
 Created as a mini-project to quickly withdraw the first item in the CSGOROLL's withdraw section
+More as a blueprint to build off of.
 
 ## How to Use
 1. Install the extension:
@@ -28,6 +29,8 @@ Created as a mini-project to quickly withdraw the first item in the CSGOROLL's w
 - Use this extension responsibly and in accordance with the terms of service of the website.
 
 ## Credits
-- Created by [Your Name]
+- Created by Shivam Parmar
 
 Feel free to contribute to the development or report issues on the GitHub repository.
+
+Will not be continuing this project in the future.

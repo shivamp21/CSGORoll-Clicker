@@ -1,6 +1,6 @@
 # CSGORoll-Clicker
-Created as a mini-project to quickly withdraw the first item in the CSGOROLL's withdraw section
-More as a blueprint to build off of.
+Created as a mini-project to quickly withdraw the first item in the CSGOROLL's withdraw section.
+This project is more as a blueprint to build off of.
 
 ## How to Use
 1. Install the extension:
